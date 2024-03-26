@@ -1,2 +1,7 @@
-package model;public class Diretor {
+package model;
+
+public class Diretor extends Pessoa {
+
+
+
 }
